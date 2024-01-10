@@ -1,4 +1,4 @@
-import { getProviders, signIn } from "next-auth/react";
+import { getProviders } from "next-auth/react";
 import Button from "./button";
 
 // eslint-disable-next-line @next/next/no-async-client-component
